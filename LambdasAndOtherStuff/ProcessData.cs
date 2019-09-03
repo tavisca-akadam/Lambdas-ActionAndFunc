@@ -16,5 +16,11 @@ namespace LambdasAndOtherStuff
 
             Console.WriteLine("Procesing Action");
         }
+
+        public void ProcessFunc(int x, int y, Func<int, int, int> func)
+        {
+            int result = func(x, y);
+            Console.WriteLine($"result = {result}");
+        }
     }
 }

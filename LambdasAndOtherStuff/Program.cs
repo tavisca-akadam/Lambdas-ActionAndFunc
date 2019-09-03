@@ -31,7 +31,9 @@ namespace LambdasAndOtherStuff
             var actionDemo = new ActionDemo();
             actionDemo.DoAction();
 
-
+            //Using Func<T, TResult>
+            var funcDemo = new FuncDemo();
+            funcDemo.DoFunc();
 
             Console.ReadKey(true);
 
@@ -52,6 +54,19 @@ namespace LambdasAndOtherStuff
             var process = new ProcessData();
             process.ProcessAction(10, 20, addAction);
             process.ProcessAction(2, 4, multiplyAction);
+        }
+    }
+
+    public class FuncDemo
+    {
+        public void DoFunc()
+        {
+            Func<int, int, int> addFunc = (x, y) => x + y;
+            Func<int, int, int> multiplyFunc = (x, y) => x * y;
+
+            var processData = new ProcessData();
+            processData.ProcessFunc(10, 20, addFunc);
+            processData.ProcessFunc(2, 5, multiplyFunc);
         }
     }
 }
