@@ -1,0 +1,11 @@
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\bin\Debug\netcoreapp2.2\LambdasAndOtherStuff.deps.json
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\bin\Debug\netcoreapp2.2\LambdasAndOtherStuff.runtimeconfig.json
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\bin\Debug\netcoreapp2.2\LambdasAndOtherStuff.runtimeconfig.dev.json
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\bin\Debug\netcoreapp2.2\LambdasAndOtherStuff.dll
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\bin\Debug\netcoreapp2.2\LambdasAndOtherStuff.pdb
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.csprojResolveAssemblyReference.cache
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.csproj.CoreCompileInputs.cache
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.AssemblyInfoInputs.cache
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.AssemblyInfo.cs
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.dll
+C:\Users\ankadam\source\repos\LambdasAndOtherStuff\LambdasAndOtherStuff\obj\Debug\netcoreapp2.2\LambdasAndOtherStuff.pdb
